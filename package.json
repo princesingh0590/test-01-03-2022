@@ -1,8 +1,8 @@
 {
-  "name": "pomodoro-react",
+  "name": "test-01-03-2022",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luizbatanero.github.io/pomodoro-react",
+  "homepage": "https://princesingh0590.github.io/test-01-03-2022",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "immer": "^5.0.0",
